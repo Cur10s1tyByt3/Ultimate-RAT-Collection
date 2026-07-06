@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Undetected/Undetected%203.0b/Screenshot.png)
+﻿![Screenshot](Screenshot.png)

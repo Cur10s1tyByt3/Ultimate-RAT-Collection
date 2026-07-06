@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Trochilus/Screenshot.png)
+﻿![Screenshot](Screenshot.png)
